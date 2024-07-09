@@ -1,7 +1,6 @@
 body{
-    background-color: rgb(0, 0, 0);
-    height: 1200px;
     background-image: url(Fondo.jpg);
+    height: 1200px;
     background-size: cover;
     background-position: center;
 
