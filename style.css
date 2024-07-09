@@ -1,9 +1,6 @@
 body{
-    background-image: url(Fondo.jpg);
+    background-color: #000000;
     height: 1200px;
-    background-size: cover;
-    background-position: center;
-
       width: 100%;
       font-family: Georgia, serif;
       
